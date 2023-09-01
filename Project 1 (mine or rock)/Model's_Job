@@ -1,0 +1,2 @@
+this model is responsible for analysing the sonar signals taken from the submarine,
+and checking if the signals belong to weither a rock or a mine.
