@@ -1,2 +1,3 @@
 this model is responsible for analysing the sonar signals taken from the submarine,
-and checking if the signals belong to weither a rock or a mine.
+and checking if the signals belong to whether a rock or a mine.
+we use 'logistic regression' in this model as its so good at binary classification
