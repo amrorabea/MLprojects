@@ -1,0 +1,2 @@
+the dataset was too big to add it so here is the link if you want to download it:
+https://www.kaggle.com/c/fake-news/data?select=train.csv
